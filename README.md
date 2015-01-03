@@ -1,3 +1,3 @@
-My Solved problems on www.acm.timus.ru
-account: acm.timus.ru/author.aspx?id=140904
+My Solved problems on http://acm.timus.ru
+account: http://acm.timus.ru/author.aspx?id=140904
 
